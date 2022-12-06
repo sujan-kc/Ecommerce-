@@ -1,0 +1,34 @@
+{
+  "Seller": [
+    {
+      "name": "Manish Katwal",
+      "email": "abcmahesh@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Hello",
+      "password": "456",
+      "Email": "abc@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Kapil Katwal",
+      "email": "abcmahesh@seller.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "prasanna Poudel ",
+      "password": "098",
+      "Email": "abc@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "prasanna Poudel ",
+      "password": "098",
+      "Email": "abc@gmail.com",
+      "id": 5
+    }
+  ]
+}
